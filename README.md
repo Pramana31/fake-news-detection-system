@@ -1,4 +1,3 @@
-# Fake_News_Detection
 # Fake News Detection using Machine Learning
 
 A machine learning-based Fake News Detection system that leverages Natural Language Processing (NLP) techniques to classify news articles as **Real** or **Fake**. The project applies text preprocessing, feature extraction using TF-IDF, and multiple supervised learning algorithms to build an accurate and efficient classification model.
